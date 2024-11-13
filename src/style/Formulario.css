@@ -2,3 +2,17 @@
     display: flex;
     flex-direction: column;
 }
+
+
+
+.button{ 
+border: 2px  solid red;
+    margin-top: 80px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #9f2f20ea;
+    color: white;
+    transition: background-color 0.3s ease;
+
+}
